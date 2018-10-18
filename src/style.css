@@ -21,5 +21,32 @@ button {
   border-radius: 5px;
   padding: 5px 10px;
   margin: 0 2px;
+  outline: none;
   cursor: pointer;
+}
+
+input {
+  padding: 5px 10px;
+  margin: 0 2px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  outline: none;
+}
+
+input.is-invalid {
+  border-color: red;
+}
+
+.inputs {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.input-nodeName {
+  font-weight: 600;
+  min-width: 50px;
+}
+
+.input-attributes {
+  flex-grow: 1;
 }
