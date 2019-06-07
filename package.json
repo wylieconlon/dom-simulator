@@ -11,18 +11,18 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "codemirror": "^5.40.2",
-    "react": "^16.5.2",
-    "react-dom": "^16.5.2"
+    "codemirror": "^5.47.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
   },
   "devDependencies": {
-    "@babel/core": "^7.1.2",
-    "@babel/preset-env": "^7.1.0",
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
     "@babel/preset-react": "^7.0.0",
-    "babel-loader": "^8.0.4",
-    "css-loader": "^1.0.0",
+    "babel-loader": "^8.0.6",
+    "css-loader": "^1.0.1",
     "style-loader": "^0.23.1",
-    "webpack": "^4.20.2",
-    "webpack-cli": "^3.1.2"
+    "webpack": "^4.33.0",
+    "webpack-cli": "^3.3.2"
   }
 }
