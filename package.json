@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "codemirror": "^5.47.0",
+    "codemirror": "^5.58.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
   },
